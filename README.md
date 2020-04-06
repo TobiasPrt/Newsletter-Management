@@ -1,7 +1,7 @@
 # Mate - Newsletterverwaltung
 
 Web-Application for organizing Newsletters on a smaller scale.
-![Newsletter Hero Image](https://tobiaspoertner.com/newsletterpreview.jpg)
+![Newsletter Hero Image](https://tobiaspoertner.com/img/newsletterpreview.jpg)
 
 ## Features
 
