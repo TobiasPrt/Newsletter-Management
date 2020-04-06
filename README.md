@@ -10,6 +10,8 @@ Web-Application for organizing Newsletters on a smaller scale.
 - Real-Time Search (Newsletter, Adresses)
 - Multiple Changes without multiple http-Requests
 - Error Logging
+- double-opt-in
+- automatic unsubscribe links
 - PHP Mailer embedded
 - Quill Editor embedded
 
